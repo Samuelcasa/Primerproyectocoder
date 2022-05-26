@@ -1,0 +1,75 @@
+
+
+.centrar{
+    width: 80%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+    padding: 40px 0px;
+
+
+}
+
+.logo{
+    float: left;
+    padding: 45px;
+    width: auto;
+}
+.menu{
+    float: right;
+    width: 40%
+    
+  
+    
+}
+
+
+
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 15px 20px;
+
+}
+
+.menu ul li a{
+    color: blue;
+    text-decoration: none;
+
+}
+/* izquierda y derecha  */
+.izquierda, .derecha{
+    width: 45%;
+    height: auto; overflow: hidden;
+    display: inline-block;
+
+}
+
+.izquierda{
+    float: left;
+}
+
+.derecha{
+    float: right;
+}
+
+.boton{
+    padding: 17px 35;
+    background-color: gainsboro;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.derecha{
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+
